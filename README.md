@@ -9,6 +9,8 @@ Creates a new **Hugo** project.
 ### `make add theme=[repository-url]`
 Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/).
 
+Make sure you update `.hugo/config.toml` file with your new theme settings. Most themes repositories feature an `exampleSite` folder you can copy and use.
+
 ### `make update`                    
 Updates included themes.
 
