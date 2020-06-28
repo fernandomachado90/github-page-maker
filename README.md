@@ -1,5 +1,5 @@
 # hugo.github.io-maker
-Template for creating [GitHub Pages](https://pages.github.com/) using [Hugo](https://gohugo.io/).
+A template for creating [GitHub Pages](https://pages.github.com/) using [Hugo](https://gohugo.io/).
 
 ## Commands
 
