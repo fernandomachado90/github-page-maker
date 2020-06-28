@@ -7,7 +7,9 @@ A template for creating [GitHub Pages](https://pages.github.com/) using [Hugo](h
 Creates a new **Hugo** project.
 
 ### `make add theme=[repository-url]`
-Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/). Make sure you update the `.hugo/config.toml` file with the new theme settings (most themes feature an `exampleSite/config.toml` you can use).
+Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/). 
+
+Make sure you update the `.hugo/config.toml` file with the new theme settings (most themes feature an `exampleSite/config.toml` you can copy to get started).
 
 ### `make update`                    
 Updates included themes.
