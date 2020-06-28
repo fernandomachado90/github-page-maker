@@ -2,6 +2,13 @@
 A template to speed up the creation and publishing of [GitHub Pages](https://pages.github.com/) using [Hugo](https://gohugo.io/). 
 Contributions are welcome!
 
+
+## Requisites
+
+This Makefile assumes you have: 
+- Open source distributed version control system [git](https://git-scm.com/downloads) properly configured.
+- Open-source static site generator [Hugo](https://gohugo.io/getting-started/installing/) installed. If you don't, simply run: `brew install hugo`
+
 ## Commands
 
 ### `make new`                    
