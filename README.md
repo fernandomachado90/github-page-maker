@@ -9,7 +9,7 @@ Creates a new **Hugo** project.
 ### `make add theme=[repository-url]`
 Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/).
 
-Make sure you update `.hugo/config.toml` file with your new theme settings. Most themes feature an `exampleSite/config.toml` you can use.
+Make sure you update `.hugo/config.toml` file with the new theme settings (most themes feature an `exampleSite/config.toml` you can use).
 
 ### `make update`                    
 Updates included themes.
