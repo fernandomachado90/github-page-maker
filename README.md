@@ -5,7 +5,7 @@ Contributions are welcome!
 
 ## Requisites
 
-This Makefile assumes that you have: 
+This **Makefile** assumes that you have: 
 - Open source distributed version control system [git](https://git-scm.com/downloads) properly configured.
 - Open-source static site generator [Hugo](https://gohugo.io/getting-started/installing/) installed. If you don't, simply run: `brew install hugo`
 
