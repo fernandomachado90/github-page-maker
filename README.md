@@ -4,16 +4,16 @@ Template for creating [GitHub Pages](https://pages.github.com/) using [Hugo](htt
 ## Commands
 
 ### `make new`                    
-Creates a new `Hugo` project.
+Creates a new **Hugo** project.
 
 ### `make add theme=[repository-url]`
-Adds `Hugo` theme as a submodule. Find themes [here](https://themes.gohugo.io/).
+Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/).
 
 ### `make update`                    
 Updates included themes.
 
 ### `make run`
-Serves website at `http://localhost:1313/``
+Serves website at http://localhost:1313.
 
 ### `make build`                    
 Builds deployable version of page.
