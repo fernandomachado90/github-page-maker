@@ -8,6 +8,12 @@ This **Makefile** assumes that you have:
 - Open source distributed version control system [git](https://git-scm.com/downloads) properly configured.
 - Open-source static site generator [Hugo](https://gohugo.io/getting-started/installing/) installed. If you don't, simply run: `brew install hugo`
 
+## Instructions
+
+- [Use this template](https://github.com/fernandomachado90/github-page-maker/generate) to create a new repository for your site.
+- The **Repository name** must be `username.github.io` (where `username` should be replaced with your **GitHub username**).
+- Clone the repository locally and **run the following commands** one by one to create and publish your page.
+
 ## Commands
 
 ### `make new`                    
