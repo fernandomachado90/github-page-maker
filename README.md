@@ -1,5 +1,5 @@
 # github-page-maker
-A template to speed up the creation and publishing of [GitHub Pages](https://pages.github.com/) using [Hugo](https://gohugo.io/). Contributions are welcome!
+Quickstarts the creation and publishing of [GitHub Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/). Contributions are welcome!
 > Tutorial em português disponível [aqui](https://medium.com/@fernandomachado90/crie-sua-github-page-com-hugo-acf182c5bc86?sk=e058b508b877d25dfe74ee5fa31d65c6).
 
 ## Requisites
