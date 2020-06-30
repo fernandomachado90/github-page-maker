@@ -3,7 +3,7 @@
 
 .PHONY: help
 help:
-	$(info hugo.github.io maker:)
+	$(info github-page-maker maker:)
 	$(info -> new                         Creates a new Hugo project)
 	$(info -> add theme=[repository-url]  Adds Hugo theme as a submodule)
 	$(info -> update                      Updates included themes)
