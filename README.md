@@ -11,7 +11,7 @@ This **Makefile** assumes that you have:
 ## Instructions
 
 - [Use this template](https://github.com/fernandomachado90/github-page-maker/generate) to create a new repository for your site.
-- The **Repository name** must be `username.github.io` (where `username` should be replaced with your **GitHub username**).
+- The **Repository name** must be `_username_.github.io` (where `_username_` should be replaced with your **GitHub username**).
 - Clone the repository locally and **run the following commands** one by one to create and publish your page.
 
 ## Commands
