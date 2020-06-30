@@ -11,7 +11,7 @@ This **Makefile** assumes that you have:
 ## Instructions
 
 - [Use this template](https://github.com/fernandomachado90/github-page-maker/generate) to create a new repository for your site.
-- The **Repository name** must be `_username_.github.io` (where `_username_` should be replaced with your **GitHub username**).
+- The **Repository name** must be `username.github.io` (where `username` should be replaced with your **GitHub username**).
 - Clone the repository locally and **run the following commands** one by one to create and publish your page.
 
 ## Commands
@@ -22,7 +22,7 @@ Creates a new **Hugo** project.
 ### `make add theme=[repository-url]`
 Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/). 
 
-Make sure you update configuration file at `.hugo/config.toml` with the selected theme settings. Most themes will include a reference file at `.hugo/themes/_theme-name_/exampleSite/config.toml` that you can copy to get started.
+Make sure you update configuration file at `.hugo/config.toml` with the selected theme settings. Most themes will include a reference file at `.hugo/themes/theme-name/exampleSite/config.toml` that you can copy to get started.
 
 ### `make update`                    
 Updates included themes.
