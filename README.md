@@ -22,7 +22,7 @@ Creates a new **Hugo** project.
 ### `make add theme=[repository-url]`
 Includes the informed **Hugo theme** repository as a submodule. Find available themes [here](https://themes.gohugo.io/). 
 
-Make sure you update configuration file at `.hugo/config.toml` with the selected theme settings. Most themes will include a reference file at `.hugo/themes/theme-name/exampleSite/config.toml` that you can copy to get started.
+Make sure you update the configuration file at `.hugo/config.toml` with the selected theme settings. Most themes will include a reference file at `.hugo/themes/theme-name/exampleSite/config.toml` that you can copy to get started.
 
 ### `make update`                    
 Updates included themes.
@@ -31,7 +31,7 @@ Updates included themes.
 Serves website at http://localhost:1313.
 
 ### `make build`                    
-Builds deployable version of page.
+Builds deployable version of the website.
 
 ### `make publish`                    
 Creates a commit and pushes changes to repository.
